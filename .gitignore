@@ -1,0 +1,3 @@
+*.java
+!archivo3.java
+archivo.js
