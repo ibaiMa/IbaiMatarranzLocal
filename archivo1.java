@@ -10,7 +10,7 @@ public class StringsEjercicio1 {
         if (texto.length() >= 7){
             System.out.println("El texto.length" + texto.charAt (7));
         }else{
-            System.out.println("No existe el caracter en la posicion 7");   
+cambiando            System.out.println("No existe el caracter en la posicion 7");   
         }
             System.out.println("En mayusculas" + texto.toUpperCase()); 
             texto = texto.toUpperCase(); 
