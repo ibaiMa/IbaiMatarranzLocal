@@ -6,6 +6,7 @@ public class StringsEjercicio1 {
         String texto; 
         System.out.println("Introduce palabra");
         texto = sc.nextLine(); 
+
         System.out.println("La longitud de "+ texto + "es" + texto.length());
         if (texto.length() >= 7){
             System.out.println("El texto.length" + texto.charAt (7));
@@ -21,7 +22,7 @@ public class StringsEjercicio1 {
 
        }
 
-      
+realizando cambios buenos      
 
     }
 }
